@@ -18,7 +18,7 @@
     "copy-from": "40x53mm_grenade",
     "type": "AMMO",
     "name": { "str": "40x53mm M1001 flechette" },
-    "description": "A 40x53mm canister shot load, with 115 17-grain flechettes.",
+    "description": "A 40x53mm canister shot load, with 115 17gr flechettes.",
     "damage": { "damage_type": "bullet", "amount": 150, "armor_penetration": 12 },
     "range": 14,
     "recoil": 18750,
