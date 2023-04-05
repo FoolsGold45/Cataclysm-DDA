@@ -254,7 +254,7 @@
     "id": "tool_belt",
     "type": "ARMOR",
     "name": { "str": "tool belt" },
-    "description": "A common belt with pockets, loops and sheaths to store up to six tools or blades.  Widely used by handymen and electricians.",
+    "description": "A common belt with pockets, loops, and sheaths to store up to six tools or blades.  Widely used by handymen and electricians.",
     "weight": "1000 g",
     "volume": "2500 ml",
     "price": 4500,
