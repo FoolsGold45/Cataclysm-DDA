@@ -478,7 +478,7 @@
     "type": "ARMOR",
     "copy-from": "armguard_metal_sheets_elbows",
     "name": { "str": "pair of case hardened sheet metal elbow guards", "str_pl": "pairs of case hardened sheet metal elbow guards" },
-    "description": "Elbow guards of sheet metal, case hardened to make sure you never bang your funny bone on the table again.",
+    "description": "A pair of sheet metal elbow guards, case hardened to make sure you never bang your funny bone on the table again.",
     "material": [ "ch_steel" ],
     "extend": { "flags": [ "STURDY" ] }
   },
@@ -506,7 +506,7 @@
     "type": "ARMOR",
     "category": "armor",
     "name": { "str": "pair of paper arm guards", "str_pl": "pairs of paper arm guards" },
-    "description": "Arm guards made of stacked paper sheets held together with duct tape.",
+    "description": "A pair of arm guards made of stacked paper sheets held together with duct tape.",
     "weight": "360 g",
     "volume": "500 ml",
     "price": 230,
@@ -536,7 +536,7 @@
     "type": "ARMOR",
     "category": "armor",
     "name": { "str": "pair of improvised tire arm guards", "str_pl": "pairs of improvised tire arm guards" },
-    "description": "Arm guards made of thick chunks of tire held together with duct tape.",
+    "description": "A pair of arm guards made of thick chunks of tire held together with duct tape.",
     "weight": "2400 g",
     "volume": "2 L",
     "price": 2300,
@@ -755,7 +755,7 @@
     "type": "ARMOR",
     "category": "armor",
     "name": { "str": "pair of Kevlar gambeson sleeves", "str_pl": "pairs of Kevlar gambeson sleeves" },
-    "description": "A pair arm sleeves made from aramid, with strips of soft body armor sewn on top to simulate quilting.",
+    "description": "A pair of arm sleeves made from aramid, with strips of soft body armor sewn on top to simulate quilting.",
     "weight": "986 g",
     "volume": "840 ml",
     "price": 1200,
@@ -1211,7 +1211,7 @@
     "copy-from": "armor_lc_lightarmguard",
     "material": [ "mc_steel", "mc_steel_chain" ],
     "name": { "str": "medium steel light arm guard" },
-    "description": "A light armguard, 1.25mm at the thickest.  Made with tougher medium steel, this offers solid protection.",
+    "description": "A light armguard, 1.25mm at the thickest.  Made with tougher medium steel, it offers solid protection.",
     "armor": [
       {
         "material": [
@@ -1240,7 +1240,7 @@
     "copy-from": "armor_lc_lightarmguard",
     "material": [ "hc_steel", "hc_steel_chain" ],
     "name": { "str": "high steel light arm guard" },
-    "description": "A light armguard, 1.25mm at the thickest.  Made with high carbon steel offering excellent protection.",
+    "description": "A light armguard, 1.25mm at the thickest.  Made with high carbon steel, offering excellent protection.",
     "armor": [
       {
         "material": [
@@ -1370,7 +1370,7 @@
     "copy-from": "armor_lc_armguard",
     "material": [ "mc_steel", "mc_steel_chain" ],
     "name": { "str": "medium steel arm guard" },
-    "description": "An armguard, 1.75mm at the thickest.  Made with tougher medium steel, this offers solid protection.",
+    "description": "An armguard, 1.75mm at the thickest.  Made with tougher medium steel, it offers solid protection.",
     "armor": [
       {
         "material": [
@@ -1399,7 +1399,7 @@
     "copy-from": "armor_lc_armguard",
     "name": { "str": "high steel arm guard" },
     "material": [ "hc_steel", "hc_steel_chain" ],
-    "description": "An armguard, 1.75mm at the thickest.  Made with high carbon steel offering excellent protection.",
+    "description": "An armguard, 1.75mm at the thickest.  Made with high carbon steel, offering excellent protection.",
     "armor": [
       {
         "material": [
@@ -1527,7 +1527,7 @@
     "type": "ARMOR",
     "copy-from": "armor_lc_heavyarmguard",
     "name": { "str": "medium steel heavy arm guard" },
-    "description": "A heavy armguard, 2.25mm at the thickest.  Made with tougher medium steel, this offers solid protection.",
+    "description": "A heavy armguard, 2.25mm at the thickest.  Made with tougher medium steel, it offers solid protection.",
     "armor": [
       {
         "material": [
@@ -1555,7 +1555,7 @@
     "type": "ARMOR",
     "copy-from": "armor_lc_heavyarmguard",
     "name": { "str": "high steel heavy arm guard" },
-    "description": "A heavy armguard, 2.25mm at the thickest.  Made with high carbon steel offering excellent protection.",
+    "description": "A heavy armguard, 2.25mm at the thickest.  Made with high carbon steel, offering excellent protection.",
     "armor": [
       {
         "material": [
@@ -1640,7 +1640,7 @@
     "type": "ARMOR",
     "category": "armor",
     "name": { "str_sp": "leather-padded sleeves" },
-    "description": "Armor made of combined pre-Cataclysm clothing.  Sections from leather clothing are tightened and affixed to the sleeves of a thick cotton shirt, excluding the joints.",
+    "description": "A pair of arm guards made of combined pre-Cataclysm clothing.  Sections of leather clothing are tightened and affixed to the sleeves of a thick cotton shirt, avoiding the joints.",
     "weight": "500 g",
     "volume": "500 ml",
     "price_postapoc": 1000,
@@ -1685,7 +1685,7 @@
     "type": "ARMOR",
     "category": "armor",
     "name": { "str": "pair of riot arm guards", "str_pl": "pairs of riot arm guards" },
-    "description": "Hard arm guards used by riot police.",
+    "description": "A pair of hard arm guards used by riot police.",
     "weight": "500 g",
     "volume": "2500 ml",
     "price": 10000,
