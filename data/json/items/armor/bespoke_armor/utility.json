@@ -3,7 +3,7 @@
     "id": "survivor_belt_notools",
     "type": "ARMOR",
     "name": { "str": "survivor belt" },
-    "description": "A custom-built leather belt covered with pouches, with a sheath to carry a smaller blade, a holster to carry a pistol and a loop for holding larger tools.  Durable and carefully crafted to be comfortable to wear.  Activate to sheathe/draw a weapon.",
+    "description": "A custom-built leather belt covered with pouches, with a sheath to carry a smaller blade, a holster to carry a pistol, and a loop for holding larger tools.  Durable and carefully crafted to be comfortable to wear.  Activate to sheathe/draw a weapon.",
     "weight": "1549 g",
     "volume": "2250 ml",
     "price": 15000,
@@ -174,7 +174,7 @@
     "type": "ARMOR",
     "copy-from": "survivor_vest",
     "name": { "str": "XL survivor harness", "str_pl": "XL survivor harnesses" },
-    "description": "A custom-built light harness covered with pouches and including an integral tactical sling for a small rifle or other such weapon.  Durable and carefully crafted to be comfortable to wear and fitting the largest forms.  Activate to holster/draw your weapon.",
+    "description": "A custom-built light harness covered with pouches and including an integral tactical sling for a small rifle or other such weapon.  Durable and carefully crafted to be comfortable to wear for those with a large stature.  Activate to holster/draw your weapon.",
     "proportional": { "weight": 1.25, "volume": 1.13, "price": 1.25 },
     "extend": { "flags": [ "OVERSIZE" ] }
   },
@@ -184,7 +184,7 @@
     "copy-from": "survivor_vest",
     "looks_like": "survivor_vest",
     "name": { "str": "XS survivor harness", "str_pl": "XS survivor harnesses" },
-    "description": "A custom-built light harness covered with pouches and including an integral tactical sling for a small rifle or other such weapon.  Durable and carefully crafted to be comfortable to wear for those with small stature.  Activate to holster/draw your weapon.",
+    "description": "A custom-built light harness covered with pouches and including an integral tactical sling for a small rifle or other such weapon.  Durable and carefully crafted to be comfortable to wear for those with a small stature.  Activate to holster/draw your weapon.",
     "proportional": { "weight": 0.75, "volume": 0.75, "price": 0.5 },
     "extend": { "flags": [ "UNDERSIZE" ] }
   }
