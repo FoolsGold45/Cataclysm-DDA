@@ -61,7 +61,7 @@
     "copy-from": "shot_paper_abstract",
     "type": "AMMO",
     "name": { "str": ".62 paper cartridge" },
-    "description": "A paper cartridge containing a premeasured amount of black powder and a .605 inch lead ball.",
+    "description": "A paper cartridge containing a premeasured amount of black powder and a .605 lead projectile.",
     "range": 24,
     "damage": { "damage_type": "bullet", "amount": 45 },
     "dispersion": 100
