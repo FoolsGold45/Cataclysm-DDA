@@ -410,7 +410,7 @@
       {
         "id": "camo_hat_chef",
         "name": { "str": "camo chef's jacket" },
-        "description": "It has camouflage dye.",
+        "description": "It is patterned with camouflage dye.",
         "color": "green",
         "weight": 2,
         "append": true
@@ -649,7 +649,7 @@
       {
         "id": "camo_hat_hard",
         "name": { "str": "camo hard hat" },
-        "description": "It's painted in camouflage dye.",
+        "description": "It's patterned with camouflage dye.",
         "color": "green",
         "weight": 2,
         "append": true
@@ -823,7 +823,7 @@
       {
         "id": "camo_hat_hard",
         "name": { "str": "camo summer hard hat" },
-        "description": "It's painted in camouflage dye.",
+        "description": "It's patterned with camouflage dye.",
         "color": "green",
         "weight": 2,
         "append": true
@@ -1012,7 +1012,7 @@
     "repairs_like": "balclava",
     "type": "ARMOR",
     "name": { "str": "kufi cap" },
-    "description": "A brimless, short and rounded cap.",
+    "description": "A brimless, short, and rounded cap.",
     "weight": "88 g",
     "volume": "500 ml",
     "price": 3000,
@@ -1064,7 +1064,7 @@
     "repairs_like": "balclava",
     "type": "ARMOR",
     "name": { "str": "porkpie hat" },
-    "description": "A flat-topped hat with circular indent and a narrow brim.  Most popular in the 40s and 50s, still common among those in the mod scene, hipsters, and people named Heisenberg.",
+    "description": "A flat-topped hat with a circular indent and a narrow brim.  Most popular in the 40s and 50s, still common among those in the mod scene, hipsters, and people named Heisenberg.",
     "weight": "213 g",
     "volume": "1250 ml",
     "price": 5500,
@@ -1117,7 +1117,7 @@
     "id": "santa_hat",
     "type": "ARMOR",
     "name": { "str": "santa hat" },
-    "description": "A red hat with white faux fur trim, commonly used by bearded men on Christmas.",
+    "description": "A red hat with white faux fur trim, commonly worn by bearded men on Christmas.",
     "weight": "200 g",
     "volume": "500 ml",
     "price": 5000,
@@ -1278,7 +1278,7 @@
     "type": "ARMOR",
     "name": { "str": "golf cap" },
     "//": "Head encumbrance stops you from wearing additional headgear.  No helmet over a ballcap, sorry.  But brimmed gear gets the anti-glare flag!",
-    "description": "You're not actually sure if this is called a golf cap, but it's the stereotypical cap golfers wear.",
+    "description": "You're not actually sure if this is called a golf cap, but it's the stereotypical cap that golfers wear.",
     "weight": "85 g",
     "volume": "500 ml",
     "price": 2200,
