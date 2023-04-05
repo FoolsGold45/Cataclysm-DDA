@@ -64,7 +64,7 @@
     "copy-from": "bp_40x53mm_flechette_m169",
     "type": "AMMO",
     "name": { "str_sp": "40x53mm buckshot, black powder" },
-    "description": "An improvised 40x53mm buckshot load somewhat resembling M576.",
+    "description": "An improvised 40x53mm buckshot load somewhat resembling M576.  Due to the use of black powder instead of smokeless, expect lower velocity, muzzle smoke, and a dirtier barrel if you shoot it.",
     "damage": { "damage_type": "bullet", "amount": 119 }
   },
   {
