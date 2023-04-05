@@ -109,7 +109,7 @@
     "copy-from": "40x46mm_buckshot_m118",
     "type": "AMMO",
     "name": { "str_sp": "40x46mm M118 flechette, reloaded" },
-    "description": "An improvised 40x46mm flechette load containing 10 steel darts, loaded into a M118 canister.  Due to the limitations of weapons built to fire 40x46mm grenades, it's much less powerful than you'd expect.",
+    "description": "An improvised 40x46mm flechette load containing ten steel darts, loaded into a M118 canister.  Due to the limitations of weapons built to fire 40x46mm grenades, it's much less powerful than you'd expect.",
     "damage": { "damage_type": "bullet", "amount": 22, "armor_penetration": 6 },
     "delete": { "effects": [ "NOGIB" ] }
   },
@@ -118,7 +118,7 @@
     "copy-from": "40x46mm_flechette_m118",
     "type": "AMMO",
     "name": { "str_sp": "40x46mm M199 flechette, reloaded" },
-    "description": "An improvised 40x46mm flechette load containing 10 steel darts, loaded into a M199 canister.  Due to the limitations of weapons built to fire 40x46mm grenades, it's much less powerful than you'd expect.",
+    "description": "An improvised 40x46mm flechette load containing ten steel darts, loaded into a M199 canister.  Due to the limitations of weapons built to fire 40x46mm grenades, it's much less powerful than you'd expect.",
     "casing": "40x46mm_m199_casing"
   },
   {
@@ -126,7 +126,7 @@
     "copy-from": "bp_40x46mm_buckshot_m199",
     "type": "AMMO",
     "name": { "str_sp": "40x46mm M118 buckshot, black powder" },
-    "description": "An improvised 40x46mm buckshot load somewhat resembling M576, loaded into a M118 canister.  Due to the limitations of weapons built to fire 40x46mm grenades, it's much less powerful than you'd expect.",
+    "description": "An improvised 40x46mm buckshot load somewhat resembling M576, loaded into a M118 canister.  Due to the limitations of weapons built to fire 40x46mm grenades, it's much less powerful than you'd expect.  The use of black powder instead of smokeless doesn't help either - expect lower velocity, muzzle smoke, and a dirtier barrel if you shoot it.",
     "casing": "40x46mm_m118_casing"
   },
   {
@@ -162,7 +162,7 @@
     "copy-from": "bp_40x46mm_slug_m118",
     "type": "AMMO",
     "name": { "str": "40x46mm M199 slug, black powder", "str_pl": "40x46mm M199 slugs, black powder" },
-    "description": "An improvised 40x46mm load resembling an oversized shotgun slug, loaded into a M199 canister.  Due to the limitations of weapons built to fire 40x46mm grenades, it's much less powerful than you'd expect.",
+    "description": "An improvised 40x46mm load resembling an oversized shotgun slug, loaded into a M199 canister.  Due to the limitations of weapons built to fire 40x46mm grenades, it's much less powerful than you'd expect.  The use of black powder instead of smokeless doesn't help either - expect lower velocity, muzzle smoke, and a dirtier barrel if you shoot it.",
     "casing": "40x46mm_m199_casing"
   },
   {
@@ -170,7 +170,7 @@
     "copy-from": "bp_40x46mm_buckshot_m118",
     "type": "AMMO",
     "name": { "str_sp": "40x46mm M118 flechette, black powder" },
-    "description": "An improvised 40x46mm flechette load containing 10 steel darts, loaded into a M118 canister.  Due to the limitations of weapons built to fire 40x46mm grenades, it's much less powerful than you'd expect.",
+    "description": "An improvised 40x46mm flechette load containing ten steel darts, loaded into a M118 canister.  Due to the limitations of weapons built to fire 40x46mm grenades, it's much less powerful than you'd expect.  The use of black powder instead of smokeless doesn't help either - expect lower velocity, muzzle smoke, and a dirtier barrel if you shoot it.",
     "damage": { "damage_type": "bullet", "amount": 19, "armor_penetration": 3 },
     "delete": { "effects": [ "NOGIB" ] }
   },
@@ -179,7 +179,7 @@
     "copy-from": "bp_40x46mm_flechette_m118",
     "type": "AMMO",
     "name": { "str_sp": "40x46mm M199 flechette, black powder" },
-    "description": "An improvised 40x46mm flechette load containing 10 steel darts, loaded into a M199 canister.  Due to the limitations of weapons built to fire 40x46mm grenades, it's much less powerful than you'd expect.",
+    "description": "An improvised 40x46mm flechette load containing ten steel darts, loaded into a M199 canister.  Due to the limitations of weapons built to fire 40x46mm grenades, it's much less powerful than you'd expect.  The use of black powder instead of smokeless doesn't help either - expect lower velocity, muzzle smoke, and a dirtier barrel if you shoot it.",
     "casing": "40x46mm_m199_casing"
   },
   {
@@ -188,7 +188,7 @@
     "type": "AMMO",
     "name": { "str_sp": "40x46mm .22 LR hornet's nest" },
     "proportional": { "dispersion": 1.8 },
-    "description": "A set of ten .22 LR bullets compressed into a 40mm adapter.  Fires all ten rounds simultaneously.",
+    "description": "A set of ten .22 LR cartridges compressed into a 40mm adapter.  Fires all ten rounds simultaneously.",
     "weight": "114 g",
     "price": 1500,
     "price_postapoc": 2400,
@@ -205,7 +205,7 @@
     "type": "AMMO",
     "name": { "str_sp": "40x46mm .410 hornet's nest" },
     "proportional": { "dispersion": 1.4 },
-    "description": "A set of four .410 shells compressed into a 40mm adapter.  Fires all four rounds at once.",
+    "description": "A set of four .410 shells compressed into a 40mm adapter.  Fires all four shells at once.",
     "weight": "245 g",
     "price": 710,
     "price_postapoc": 3240,
