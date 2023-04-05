@@ -25,7 +25,7 @@
     "id": "flintlock_shot",
     "type": "AMMO",
     "name": { "str": "paper shot cartridge" },
-    "description": "A paper cartridge containing a premeasured amount of black powder and metallic shot.  Historically used to reload muzzleloaders in a more reasonable amount of time.",
+    "description": "A paper cartridge containing a premeasured amount of black powder and an equal volume of lead shot.  Historically used to reload muzzleloaders in a more reasonable amount of time.",
     "weight": "40 g",
     "volume": "10 ml",
     "price": 1100,
