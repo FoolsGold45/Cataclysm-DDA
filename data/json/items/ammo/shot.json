@@ -24,7 +24,7 @@
     "copy-from": "shot_00",
     "type": "AMMO",
     "name": { "str_sp": "00 shot, reloaded" },
-    "description": "A shell filled with metal pellets.  Extremely damaging, plus the spread makes it very accurate at short range.  SWAT forces wouldn't use this homebrew shell, but a sovereign citizen looking to fend off SWAT probably would.",
+    "description": "A shotgun shell filled with metal pellets.  Extremely damaging, plus the spread makes it very accurate at short range.  SWAT forces wouldn't use this homebrew shell, but a sovereign citizen looking to fend off SWAT probably would.",
     "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -74,7 +74,7 @@
     "copy-from": "shot_00",
     "type": "AMMO",
     "name": { "str_sp": "00 shot, black powder" },
-    "description": "A shell filled with metal pellets.  Extremely damaging, plus the spread makes it very accurate at short range.  SWAT forces probably wouldn't use this one - it's filled with black powder instead of smokeless powder.  Expect lower velocity, muzzle smoke, and a dirtier barrel if you shoot it.",
+    "description": "A shotgun shell filled with metal pellets.  Extremely damaging, plus the spread makes it very accurate at short range.  SWAT forces probably wouldn't use this one - it's filled with black powder instead of smokeless powder.  Expect lower velocity, muzzle smoke, and a dirtier barrel if you shoot it.",
     "proportional": { "price": 0.6, "damage": { "damage_type": "bullet", "amount": 0.8 }, "dispersion": 1.2 },
     "extend": { "effects": [ "RECYCLED", "MUZZLE_SMOKE", "BLACKPOWDER" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -119,7 +119,7 @@
     "copy-from": "shotshell_abstract",
     "type": "AMMO",
     "name": { "str_sp": "00 shot" },
-    "description": "A shell filled with metal pellets.  Extremely damaging, plus the spread makes it very accurate at short range.  Favored by SWAT forces.",
+    "description": "A shotgun shell filled with metal pellets.  Extremely damaging, plus the spread makes it very accurate at short range.  Favored by SWAT forces.",
     "price": 500,
     "price_postapoc": 800,
     "range": 18,
