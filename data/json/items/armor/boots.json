@@ -1123,7 +1123,7 @@
     "repairs_like": "boots",
     "type": "ARMOR",
     "name": { "str": "pair of clown shoes", "str_pl": "pairs of clown shoes" },
-    "description": "A gigantic pair of shoes, fit for a clown.  Incredibly difficult to walk in.",
+    "description": "A gigantic pair of shoes fit for a clown.  Incredibly difficult to walk in.",
     "weight": "1140 g",
     "volume": "3500 ml",
     "price": 500,
