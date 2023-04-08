@@ -928,7 +928,7 @@
     "repairs_like": "trenchcoat",
     "type": "ARMOR",
     "name": { "str_sp": "French maid clothes" },
-    "description": "The French maid dress, blue with a frilly white apron.",
+    "description": "A French maid dress, blue with a frilly white apron.",
     "weight": "250 g",
     "volume": "250 ml",
     "price": 5000,
@@ -960,7 +960,7 @@
     "repairs_like": "trenchcoat",
     "type": "ARMOR",
     "name": { "str_sp": "short French maid clothes" },
-    "description": "The French maid dress, black with a frilly white apron.  This version is much lighter and shorter than normal.",
+    "description": "A French maid dress, black with a frilly white apron.  This version is much lighter and shorter than normal.",
     "weight": "150 g",
     "volume": "250 ml",
     "price": 5000,
@@ -1749,7 +1749,7 @@
       },
       {
         "id": "mohawk",
-        "text": "A short-sleeved cotton shirt with an image of a woman's face in portrait printed on the front.  She is wearing a large blue mohawk, her face is set in a snarl."
+        "text": "A short-sleeved cotton shirt with an image of a woman's face in portrait printed on the front.  She has a large blue mohawk, and her face is set in a snarl."
       },
       {
         "id": "nuwave",
@@ -1907,7 +1907,7 @@
     "repairs_like": "sundress",
     "type": "ARMOR",
     "name": { "str": "short witch dress", "str_pl": "short witch dresses" },
-    "description": { "str": "A short black dress typically used by witches." },
+    "description": { "str": "A short black dress typically worn by witches." },
     "weight": "200 g",
     "volume": "1500 ml",
     "price": 12000,
