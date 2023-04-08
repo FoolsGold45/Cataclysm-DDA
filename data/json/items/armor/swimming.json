@@ -1008,7 +1008,7 @@
     "repairs_like": "shark_suit_faraday",
     "type": "ARMOR",
     "name": { "str": "sharksuit" },
-    "description": "A-one piece chainmail suit used by SCUBA divers for protection against shark bites.  It comes with attached plastic helmet and booties.",
+    "description": "A one-piece chainmail suit used by SCUBA divers for protection against shark bites.  It comes with an attached plastic helmet and booties.",
     "weight": "8164 g",
     "volume": "3500 ml",
     "price": 35000,
