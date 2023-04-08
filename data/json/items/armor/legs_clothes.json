@@ -31,7 +31,7 @@
     "id": "b_shorts",
     "repairs_like": "jeans",
     "type": "ARMOR",
-    "name": { "str_sp": "basketball shorts" },
+    "name": { "str_sp": "pair of basketball shorts", "str_pl": "pairs of basketball shorts" },
     "description": "A pair of basketball shorts.  Comfortable and light.",
     "weight": "190 g",
     "volume": "1 L",
@@ -79,7 +79,7 @@
   {
     "id": "breeches",
     "type": "ARMOR",
-    "name": { "str_sp": "breeches" },
+    "name": { "str_sp": "pair of breeches", "str_pl": "pairs of breeches" },
     "description": "A well-made pair of old-fashioned pants, made of stiff yet baggy material.  Comfortable, but lacks pockets.",
     "weight": "520 g",
     "volume": "1750 ml",
@@ -143,7 +143,7 @@
     "repairs_like": "boots_larmor",
     "type": "ARMOR",
     "name": { "str": "pair of fishing waders", "str_pl": "pairs of fishing waders" },
-    "description": "Waterproof plastic fishing waders with a single large front pocket.",
+    "description": "A pair of waterproof plastic fishing waders with a single large front pocket.",
     "weight": "1360 g",
     "volume": "9500 ml",
     "price": 10000,
@@ -175,7 +175,7 @@
     "id": "flag_pants",
     "repairs_like": "pants",
     "type": "ARMOR",
-    "name": { "str_sp": "flag pants" },
+    "name": { "str_sp": "pair of flag pants", "str_pl": "pairs of flag pants" },
     "description": "A pair of pants embroidered with an American flag pattern.",
     "weight": "399 g",
     "volume": "2 L",
@@ -223,7 +223,7 @@
   {
     "id": "hot_pants",
     "type": "ARMOR",
-    "name": { "str_sp": "hot pants" },
+    "name": { "str_sp": "pair of hot pants", "str_pl": "pairs of hot pants" },
     "description": "A simple pair of short shorts.",
     "weight": "92 g",
     "volume": "250 ml",
@@ -240,7 +240,7 @@
   {
     "id": "hot_pants_fur",
     "type": "ARMOR",
-    "name": { "str_sp": "fur hot pants" },
+    "name": { "str_sp": "pair of fur hot pants", "str_pl": "pairs of fur hot pants" },
     "description": "A simple pair of fur short shorts.",
     "weight": "118 g",
     "volume": "250 ml",
@@ -258,7 +258,7 @@
   {
     "id": "hot_pants_leather",
     "type": "ARMOR",
-    "name": { "str_sp": "leather hot pants" },
+    "name": { "str_sp": "pair of leather hot pants", "str_pl": "pairs of leather hot pants" },
     "description": "A simple pair of leather short shorts.",
     "weight": "106 g",
     "volume": "250 ml",
@@ -276,7 +276,7 @@
   {
     "id": "jeans",
     "type": "ARMOR",
-    "name": { "str_sp": "jeans" },
+    "name": { "str_sp": "pair of jeans", "str_pl": "pairs of jeans" },
     "description": "A pair of blue jeans with two deep pockets.",
     "weight": "600 g",
     "volume": "2 L",
@@ -328,7 +328,7 @@
       { "id": "jeans4", "text": "A pair of old baggy jeans.  The heels are all ripped up." },
       {
         "id": "jeans5",
-        "text": "An old pair of blue jeans.  You are not sure if they are faded through age or stone washed."
+        "text": "An old pair of blue jeans.  You are not sure if they are faded from age or stone washed."
       }
     ],
     "armor": [ { "encumbrance": [ 7, 11 ], "coverage": 95, "covers": [ "leg_l", "leg_r" ] } ]
@@ -337,7 +337,7 @@
     "id": "jeans_red",
     "repairs_like": "pants_leather",
     "type": "ARMOR",
-    "name": { "str_sp": "red jeans" },
+    "name": { "str_sp": "pair of red jeans", "str_pl": "pairs of red jeans" },
     "description": "A pair of tight-fitting candy-apple-red jeans with two deep pockets.",
     "weight": "600 g",
     "volume": "2 L",
@@ -447,8 +447,8 @@
   {
     "id": "leggings",
     "type": "ARMOR",
-    "name": { "str_sp": "leggings" },
-    "description": "Skin-tight nylon leggings, sometimes used when exercising, that keep your legs nice and warm.",
+    "name": { "str_sp": "pair of leggings", "str_pl": "pairs of leggings" },
+    "description": "A pair of skin-tight nylon leggings, sometimes used when exercising, that keep your legs nice and warm.",
     "weight": "155 g",
     "volume": "500 ml",
     "price": 1000,
@@ -466,7 +466,7 @@
     "id": "loincloth",
     "type": "ARMOR",
     "name": { "str": "loincloth" },
-    "description": "Rags stitched together and tied into a makeshift loincloth.  Covers your modesty, but not much else.",
+    "description": "Cotton sheets stitched together and tied into a makeshift loincloth.  Covers your modesty, but not much else.",
     "weight": "75 g",
     "volume": "250 ml",
     "price": 900,
@@ -483,7 +483,7 @@
     "id": "loincloth_fur",
     "type": "ARMOR",
     "name": { "str": "fur loincloth" },
-    "description": "A fur pelt tied into a loincloth.  Covers your modesty, but not much else.  Now you are a true barbarian warrior.",
+    "description": "Fur pelts tied into a loincloth.  Covers your modesty, but not much else.  Now you are a true barbarian warrior.",
     "weight": "250 g",
     "volume": "250 ml",
     "price": 7500,
@@ -501,7 +501,7 @@
     "id": "loincloth_leather",
     "type": "ARMOR",
     "name": { "str": "leather loincloth" },
-    "description": "Leather patches stitched together and tied into a makeshift loincloth.  Covers your modesty, but not much else.",
+    "description": "Leather sheets stitched together and tied into a makeshift loincloth.  Covers your modesty, but not much else.",
     "weight": "550 g",
     "volume": "250 ml",
     "price": 7500,
@@ -518,7 +518,7 @@
     "id": "loincloth_wool",
     "type": "ARMOR",
     "name": { "str": "wool loincloth" },
-    "description": "Bits of wool stitched together and tied into a makeshift loincloth.  Covers your modesty, but not much else.",
+    "description": "Felt sheets stitched together and tied into a makeshift loincloth.  Covers your modesty, but not much else.",
     "weight": "56 g",
     "volume": "250 ml",
     "price": 900,
@@ -554,7 +554,7 @@
     "id": "pants",
     "repairs_like": "jeans",
     "type": "ARMOR",
-    "name": { "str_sp": "pants" },
+    "name": { "str_sp": "pair of pants", "str_pl": "pairs of pants" },
     "description": "A pair of khaki pants.  Slightly warmer than jeans.",
     "weight": "560 g",
     "volume": "2 L",
@@ -604,7 +604,7 @@
     "id": "pants_army",
     "repairs_like": "jeans",
     "type": "ARMOR",
-    "name": { "str_sp": "army pants" },
+    "name": { "str_sp": "pair of army pants", "str_pl": "pairs of army pants" },
     "description": "A tough pair of pants lined with pockets.  Favored by the military.",
     "weight": "720 g",
     "volume": "2500 ml",
@@ -661,7 +661,7 @@
     "snippet_category": [
       {
         "id": "apants_UCP",
-        "text": "A tough pair of pants.  Favored by the military.  This pair sports the US Army's gray, green and tan Universal Camouflage Pattern.  The pattern is notable for its lack of black."
+        "text": "A tough pair of pants.  Favored by the military.  This pair sports the US Army's gray, green, and tan Universal Camouflage Pattern.  The pattern is notable for its lack of black."
       },
       {
         "id": "apants_desert",
@@ -669,11 +669,11 @@
       },
       {
         "id": "apants_MARPAT",
-        "text": "A tough pair of military pants with a black, green and tan pixel camouflage pattern.  Commonly seen worn by US Marines."
+        "text": "A tough pair of military pants with a black, green, and tan pixel camouflage pattern.  Commonly seen worn by US Marines."
       },
       {
         "id": "apants_BDU",
-        "text": "A tough pair of military pants with the black, brown, green and tan Battle Dress camouflage pattern.  They look old."
+        "text": "A tough pair of military pants with the black, brown, green, and tan Battle Dress camouflage pattern.  They look old."
       },
       {
         "id": "mil_pants_navy",
@@ -688,7 +688,7 @@
   {
     "id": "pants_cargo",
     "type": "ARMOR",
-    "name": { "str_sp": "cargo pants" },
+    "name": { "str_sp": "pair of cargo pants", "str_pl": "pairs of cargo pants" },
     "description": "A pair of pants lined with pockets, offering lots of storage.",
     "weight": "670 g",
     "volume": "2250 ml",
@@ -751,7 +751,7 @@
     "id": "pants_checkered",
     "repairs_like": "jeans",
     "type": "ARMOR",
-    "name": { "str_sp": "checkered pants" },
+    "name": { "str_sp": "pair of checkered pants", "str_pl": "pairs of checkered pants" },
     "description": "In a pinch, these pants can be used for an impromptu game of checkers.",
     "weight": "630 g",
     "volume": "1250 ml",
@@ -799,7 +799,7 @@
   {
     "id": "pants_fur",
     "type": "ARMOR",
-    "name": { "str_sp": "fur pants" },
+    "name": { "str_sp": "pair of fur pants", "str_pl": "pairs of fur pants" },
     "description": "A hefty pair of fur-lined pants.",
     "weight": "920 g",
     "volume": "4 L",
@@ -851,7 +851,7 @@
     "id": "pants_faux_fur",
     "type": "ARMOR",
     "copy-from": "pants_fur",
-    "name": { "str_sp": "faux fur pants" },
+    "name": { "str_sp": "pair of faux fur pants", "str_pl": "pairs of faux fur pants" },
     "description": "A pair of long cotton pants lined with warm imitation fur.",
     "material": [ "faux_fur", "cotton" ],
     "warmth": 70
@@ -860,8 +860,8 @@
     "id": "trousers_ninja",
     "type": "ARMOR",
     "repairs_like": "pants",
-    "name": { "str_sp": "ninja trousers" },
-    "description": "A pair of black trousers with calf and waistband ties.  Comfortable to use but lacks pockets.",
+    "name": { "str_sp": "pair of ninja trousers", "str_pl": "pairs of ninja trousers" },
+    "description": "A pair of black trousers with calf and waistband ties.  Comfortable, but lacks pockets.",
     "weight": "400 g",
     "volume": "1500 ml",
     "price": 4800,
@@ -878,7 +878,7 @@
   {
     "id": "pants_leather",
     "type": "ARMOR",
-    "name": { "str_sp": "leather pants" },
+    "name": { "str_sp": "pair of leather pants", "str_pl": "pairs of leather pants" },
     "description": "A pair of black leather pants.  Very tough, but cumbersome and without much storage.",
     "weight": "980 g",
     "volume": "2500 ml",
@@ -915,7 +915,7 @@
     "id": "pants_ski",
     "repairs_like": "jeans",
     "type": "ARMOR",
-    "name": { "str_sp": "ski pants" },
+    "name": { "str_sp": "pair of ski pants", "str_pl": "pairs of ski pants" },
     "description": "A pair of pants meant for alpine skiing.",
     "weight": "450 g",
     "volume": "2 L",
@@ -965,7 +965,7 @@
     "id": "police_breeches",
     "repairs_like": "jeans",
     "type": "ARMOR",
-    "name": { "str_sp": "police breeches" },
+    "name": { "str_sp": "pair of police breeches", "str_pl": "pairs of police breeches" },
     "description": "A pair of tight-fitting police breeches.  Offers lots of mobility for motorized officers.",
     "weight": "560 g",
     "volume": "1500 ml",
@@ -991,8 +991,8 @@
     "id": "postman_shorts",
     "repairs_like": "jeans",
     "type": "ARMOR",
-    "name": { "str_sp": "mail carrier shorts" },
-    "description": "A pair of dark blue shorts, the kind used by postal service workers.",
+    "name": { "str_sp": "pair of mail carrier shorts", "str_pl": "pairs of mail carrier shorts" },
+    "description": "A pair of dark blue shorts, the kind worn by postal service workers.",
     "weight": "230 g",
     "volume": "1 L",
     "price": 4000,
@@ -1053,7 +1053,7 @@
   {
     "id": "santa_shorts",
     "type": "ARMOR",
-    "name": { "str_sp": "santa shorts" },
+    "name": { "str_sp": "pair of santa shorts", "str_pl": "pairs of santa shorts" },
     "description": "A pair of red shorts with white trim.  For when Santa is on summer vacation.",
     "weight": "230 g",
     "volume": "1 L",
@@ -1080,8 +1080,8 @@
   {
     "id": "santa_pants",
     "type": "ARMOR",
-    "name": { "str_sp": "santa pants" },
-    "description": "A pair of red pants with white faux fur trim, commonly used by bearded men on Christmas.  Somewhat warm and has two deep pockets.",
+    "name": { "str_sp": "pair of santa pants", "str_pl": "pairs of santa pants" },
+    "description": "A pair of red pants with white faux fur trim, commonly worn by bearded men on Christmas.  Somewhat warm, and has two deep pockets.",
     "weight": "800 g",
     "volume": "3 L",
     "price": 20000,
@@ -1130,7 +1130,7 @@
   {
     "id": "shorts",
     "type": "ARMOR",
-    "name": { "str_sp": "shorts" },
+    "name": { "str_sp": "pair of shorts", "str_pl": "pairs of shorts" },
     "description": "A pair of khaki shorts.",
     "weight": "230 g",
     "volume": "1 L",
@@ -1193,7 +1193,7 @@
   {
     "id": "shorts_cargo",
     "type": "ARMOR",
-    "name": { "str_sp": "cargo shorts" },
+    "name": { "str_sp": "pair of cargo shorts", "str_pl": "pairs of cargo shorts" },
     "description": "A pair of shorts lined with pockets, offering decent storage.",
     "weight": "340 g",
     "volume": "1500 ml",
@@ -1270,7 +1270,7 @@
   {
     "id": "shorts_denim",
     "type": "ARMOR",
-    "name": { "str_sp": "jorts" },
+    "name": { "str_sp": "pair of jorts", "str_pl": "pairs of jorts" },
     "description": "A pair of denim shorts.",
     "weight": "260 g",
     "volume": "1250 ml",
@@ -1298,7 +1298,7 @@
       }
     ],
     "snippet_category": [
-      { "id": "denim_shorts1", "text": "A pair of stone wash denim shorts." },
+      { "id": "denim_shorts1", "text": "A pair of stone washed denim shorts." },
       { "id": "denim_shorts2", "text": "An old pair of denim jeans that have been cut down into shorts." },
       { "id": "denim_shorts3", "text": "A pair of brand-name black denim shorts." }
     ],
@@ -1349,7 +1349,7 @@
     "id": "skirt_grass",
     "type": "ARMOR",
     "name": { "str": "grass skirt" },
-    "description": "A primitive skirt made from grass.  Not actually useful for much other than looking like a tribal person.",
+    "description": "A primitive skirt made from grass.  Not useful for much other than looking like a tribal person.",
     "weight": "72 g",
     "volume": "500 ml",
     "price": 100,
@@ -1371,7 +1371,7 @@
     "repairs_like": "pants_leather",
     "type": "ARMOR",
     "name": { "str": "leather skirt" },
-    "description": "A very short leather skirt, clearly designed to look good, not be practical.",
+    "description": "A very short leather skirt, clearly designed for form over function.",
     "weight": "230 g",
     "volume": "250 ml",
     "price": 9500,
@@ -1397,7 +1397,7 @@
     "id": "striped_pants",
     "repairs_like": "jeans",
     "type": "ARMOR",
-    "name": { "str_sp": "striped pants" },
+    "name": { "str_sp": "pair of striped pants", "str_pl": "pairs of striped pants" },
     "description": "A pair of pants with horizontal black and white stripes.",
     "weight": "560 g",
     "volume": "2 L",
@@ -1447,7 +1447,7 @@
     "id": "technician_pants_gray",
     "repairs_like": "jeans",
     "type": "ARMOR",
-    "name": { "str": "work pants", "str_pl": "pairs of work pants" },
+    "name": { "str": "pair of work pants", "str_pl": "pairs of work pants" },
     "description": "A pair of gray canvas work pants.",
     "weight": "1040 g",
     "volume": "2 L",
@@ -1502,7 +1502,7 @@
     "id": "winter_pants_army",
     "repairs_like": "jeans",
     "type": "ARMOR",
-    "name": { "str_sp": "army winter pants" },
+    "name": { "str_sp": "pair of army winter pants", "str_pl": "pairs of army winter pants" },
     "description": "A tough pair of pants lined with pockets, thickly padded for warmth.  Favored by the military.",
     "weight": "1000 g",
     "volume": "2500 ml",
@@ -1565,8 +1565,8 @@
   {
     "id": "zubon_gi",
     "type": "ARMOR",
-    "name": { "str": "zubon" },
-    "description": "Plain white zubon for use in martial arts.",
+    "name": { "str": "pair of zubon", "str_pl": "pairs of zubon" },
+    "description": "Plain white uniform pants for use in martial arts.",
     "weight": "150 g",
     "volume": "750 ml",
     "price": 2500,
@@ -1584,7 +1584,7 @@
     "id": "pants_hiking",
     "repairs_like": "pants",
     "type": "ARMOR",
-    "name": { "str": "hiking pants", "str_pl": "pairs of hiking pants" },
+    "name": { "str": "pair of hiking pants", "str_pl": "pairs of hiking pants" },
     "description": "A water-resistant pair of lightweight, flexible hiking pants with a good number of pockets.",
     "weight": "250 g",
     "volume": "1750 ml",
